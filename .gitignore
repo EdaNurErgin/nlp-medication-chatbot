@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+tmp/
+temp/
+
+# Training artifacts
+runs/
+wandb/
+
+# Model 
+NLP_ChatBot1/flan-t5-medicationqa-final/
+
+# Zip files 
+*.zip
+
+# HuggingFace cache
+.cache/
